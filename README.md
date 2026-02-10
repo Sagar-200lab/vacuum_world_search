@@ -1,4 +1,4 @@
-# vaccum_world_search
+# vacuum_world_search
 Implementation of DFS, A*, and IDA* for the Vacuum World problem
 # CYS5550 – Homework 1
 # Option A: Vacuum World Search Algorithms
